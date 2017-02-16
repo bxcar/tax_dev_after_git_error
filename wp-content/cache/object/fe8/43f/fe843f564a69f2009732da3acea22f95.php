@@ -1,1 +1,1 @@
-E¤¤X<?php exit; ?>a:1:{s:7:"content";s:10:"1486396423";}
+Æ¦X<?php exit; ?>a:1:{s:7:"content";s:10:"1486396423";}
