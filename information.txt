@@ -1,0 +1,8 @@
+database
+name - tax_dev
+login - root
+password - root
+
+wordpress
+user - tax_user
+password - )2K$X#P1TLiaaP%B08

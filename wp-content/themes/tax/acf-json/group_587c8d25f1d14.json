@@ -1,0 +1,176 @@
+{
+    "key": "group_587c8d25f1d14",
+    "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0444\u0443\u0442\u0435\u0440\u0430",
+    "fields": [
+        {
+            "key": "field_587c8d34732b7",
+            "label": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u043c\u0435\u043d\u044e",
+            "name": "footer_h_f_m",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 1,
+            "new_lines": "br"
+        },
+        {
+            "key": "field_587da1d4155c0",
+            "label": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0432\u0442\u043e\u0440\u043e\u0433\u043e \u043c\u0435\u043d\u044e",
+            "name": "footer_h_s_m",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 1,
+            "new_lines": "br"
+        },
+        {
+            "key": "field_587da1d4155bf",
+            "label": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0442\u0440\u0435\u0442\u044c\u0435\u0433\u043e \u043c\u0435\u043d\u044e",
+            "name": "footer_h_t_m",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "33",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 1,
+            "new_lines": "br"
+        },
+        {
+            "key": "field_587da217155c1",
+            "label": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0438",
+            "name": "footer_email_title",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 1,
+            "new_lines": "br"
+        },
+        {
+            "key": "field_587da237155c2",
+            "label": "Placeholder email",
+            "name": "footer_email_placeholder",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_587da257155c3",
+            "label": "\u0417\u0430\u0433\u043e\u043b\u043e\u0432\u043e\u043a \u0441\u043e\u0446\u0441\u0435\u0442\u0435\u0439",
+            "name": "footer_social_title",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 1,
+            "new_lines": "br"
+        },
+        {
+            "key": "field_587da278155c4",
+            "label": "\u041a\u043e\u043f\u0438\u0440\u0430\u0439\u0442",
+            "name": "footer_copyright",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "maxlength": "",
+            "rows": 1,
+            "new_lines": "br"
+        },
+        {
+            "key": "field_58905cefd4f86",
+            "label": "Email \u043a\u0443\u0434\u0430 \u0431\u0443\u0434\u0443\u0442 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u044c \u0432\u0441\u0435 \u0437\u0430\u044f\u0432\u043a\u0438 \u0441 \u0441\u0430\u0439\u0442\u0430",
+            "name": "footer_target_email",
+            "type": "text",
+            "instructions": "\u041d\u0430 \u044d\u0442\u043e\u0442 email \u0431\u0443\u0434\u0443\u0442 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u0442\u044c \u0432\u0441\u0435 \u0437\u0430\u044f\u0432\u043a\u0438 \u0441 \u0444\u043e\u0440\u043c, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0441 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 \u043d\u0430 \u0440\u0430\u0441\u0441\u044b\u043b\u043a\u0443. \u0412\u0432\u0435\u0441\u0442\u0438 \u043c\u043e\u0436\u043d\u043e \u043b\u0438\u0431\u043e \u043e\u0434\u0438\u043d email \u0430\u0434\u0440\u0435\u0441 \u043b\u0438\u0431\u043e \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0447\u0435\u0440\u0435\u0437 \u0437\u0430\u043f\u044f\u0442\u0443\u044e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0442\u0430\u043a: example@mail.ru, admin@site.com",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "example@mail.ru, admin@site.com",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "footer"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1485856301
+}
