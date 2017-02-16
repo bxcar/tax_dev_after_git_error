@@ -20,7 +20,7 @@
 //$extra = 'index.php';
 //header("Location: http://$host$uri/$extra");
 //header("Location: http://$host$uri");
-//exit;
+// exit;
 ?>
 
 
