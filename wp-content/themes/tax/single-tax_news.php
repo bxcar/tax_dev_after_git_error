@@ -267,8 +267,7 @@
                             <div class="text-info">
                                 <div class="top wow fadeInUp" data-wow-duration="1s">
                                     <div class="date">
-                                        <span><?php echo get_the_date('j'); ?><?php echo get_the_date('M'); ?></span>
-                                        <span><?php echo get_the_date('Y'); ?></span></span></div>
+                                        <span><?php echo get_the_date('j'); ?>&nbsp;<?php echo get_the_date('M'); ?></span><br><span><?php echo get_the_date('Y'); ?></span></span></div>
                                     <div class="blog-title">
                                         <?php the_title(); ?>
                                     </div>

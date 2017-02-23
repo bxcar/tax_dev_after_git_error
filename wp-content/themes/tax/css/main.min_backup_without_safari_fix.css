@@ -5489,7 +5489,6 @@ header .menu ul li {
     header .menu.collapsed {
         width: -webkit-calc(100% + 30px);
         width: calc(100% + 30px);
-        /*width: 100%;*/
         padding: 0 15px;
         margin: 0 -15px;
         background-color: rgba(111, 105, 105, .57)
@@ -5519,9 +5518,6 @@ header .menu ul li {
     header.internal .collapsed #menu-primarymenu,
     header.front .collapsed #menu-primarymenu {
         display: flex;
-        display: -webkit-box;
-	    display: -webkit-flex;
-	    display: -ms-flexbox;
     }
 }
 
@@ -5573,7 +5569,6 @@ header .menu-collapser {
     header .menu-collapser {
         width: -webkit-calc(100% + 30px);
         width: calc(100% + 30px);
-        /*width: 100%;*/
         margin-left: -15px;
         margin-right: -15px;
         margin-top: 10px;
@@ -10418,21 +10413,3 @@ em {
     height: 0;
     overflow: hidden
 }
-
-/*******fix-for-safari********/
-header .left-side, header .menu, /*main-page-top-phone*/
-.helpful-info .item a, .our-work .work-item .rotate-wrap, /*main-page-green-line-js-fill*/
-.helpful-info .info-item, .results .item.bank, /*main-page-helpful-information*/
-.blog-layaut .blog>.item .text-info .top, .blog-layaut>.wrap, /*news-page*/
-.blog-layaut .blog .social-block, .blog-layaut .blog .social-block .share, /*news-single-social*/ 
-.facilities-services-block .wrap, .search-info .wrap, /*services-and-prices*/
-.contacts-info .wrap, .offer-block .wrap, /*contacts-page*/
-.footnote, /*special-offers-page*/
-.flags-info .wrap, .page-not-found, /*jur-centers-page*/
-.search-online .wrap, .services-page .wrap, /*search-online-page*/
-.search-online .item, .services-page .item {
-	display: -webkit-box; 
-    display: -webkit-flex;
-    display: -ms-flexbox;
-}
-/*****fix-for-safari-end******/

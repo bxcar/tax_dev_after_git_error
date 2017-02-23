@@ -85,11 +85,13 @@
             header .menu-collapser {
                 position: absolute;
                 top: 0;
+                left: -15px;
             }
 
             header .menu.collapsed {
                 position: absolute;
                 top: 48px;
+                left: -15px;
             }
         }
 
